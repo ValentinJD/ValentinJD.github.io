@@ -6,7 +6,7 @@ body {
 .a4{
     margin: auto;
     background: lightgrey;
-    width: 700px; /* Ширина слоя */
+    width: 750px; /* Ширина слоя */
     height: 1100px;
     border-width: 1px;
     padding: 30px;
